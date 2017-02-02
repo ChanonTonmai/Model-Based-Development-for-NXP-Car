@@ -5,5 +5,5 @@ for inspired undergraduate student to understand how important of electric vehic
 
 ![amas_poster](https://cloud.githubusercontent.com/assets/9088660/22531646/d32e9762-e914-11e6-8fdd-7653b1455f8b.jpg)
 
-
+# The Main Model 
 

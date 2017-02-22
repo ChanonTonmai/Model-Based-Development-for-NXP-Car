@@ -9,5 +9,4 @@ for inspired undergraduate student to understand how important of electric vehic
 ![model](https://cloud.githubusercontent.com/assets/9088660/22531738/7b6fd5c6-e915-11e6-9bc5-599d72be0734.png)
 
 # The Finally Car 
-![16506988_1380216402009804_1332245445_n](https://cloud.githubusercontent.com/assets/9088660/22565803/159a1566-e9bc-11e6-8d0f-e2b046bbccb1.jpg)
 

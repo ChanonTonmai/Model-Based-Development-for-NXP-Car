@@ -9,8 +9,6 @@ During the design phase students must tackle several Science, Technology, Engine
 
 Instead of detailed algorithm description, in this paper we try to show how to use a model based design and intuitive approaches for successful implementation of the controller algorithm.
 
-Brief introduction into this competition is sketched in the Sect. 2. In the Sect. 3 we show the electronic design, creation of the whole car model and the controller. In the last section we summarize our experiences, recommendations and planning.
-
 ![amas_poster](https://cloud.githubusercontent.com/assets/9088660/22531646/d32e9762-e914-11e6-8fdd-7653b1455f8b.jpg)
 
 # The Main Model 
